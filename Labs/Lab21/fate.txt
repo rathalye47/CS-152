@@ -1,0 +1,18 @@
+"Fate" by Rohan Athalye
+
+When play begins:
+    say "Your life is at stake. Enter the rooms to see what lies in store for you. Remember, your fate is not in your hands!"
+    
+The time of day is 12:00 am.
+
+The Hallway is a room. "Pick a room to enter: the Red Room or the Yellow Room. East is the Red Room. West is the Yellow Room."
+
+The Red Room is east of the Hallway. "All the walls are painted red...you feel as if the room is mad at you. Maybe the color of this room will determine your fate." 
+
+The envelope is in the Red Room. The description is "Inside of the envelope is a letter. The letter says that you won the lottery of $1 million!" 
+
+The Yellow Room is west of the Hallway. "All the walls are painted yellow...you feel calm and at ease. But maybe you shouldn't get too comfortable here."
+
+Jordan is in the Yellow Room. "Jordan doesn't know what she's doing here. She is lost and is very scared." Jordan is a woman.
+
+The box is in the Yellow Room. The description is "Inside of the box is your passport or what used to be your passport. It has been torn to shreds by mysterious forces. Now you can't ever leave the country!"
